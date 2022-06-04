@@ -1,0 +1,35 @@
+/* General styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  }
+  
+  body {
+    font-family: "Raleway", sans-serif;
+    box-sizing: border-box;
+    background-color: #9b9b9b;
+    color: #101010;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  aside {
+    background-color: gray;
+    border-radius: 10px;
+  }
+  
+  .container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100px;
+    background: #FFFFFF;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 25px 25px black;
+    margin: 20px;
+  }
