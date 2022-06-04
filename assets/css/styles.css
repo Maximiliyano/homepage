@@ -33,3 +33,86 @@
     box-shadow: 0 25px 25px black;
     margin: 20px;
   }
+  
+  h1 {
+    color: #b1a613;
+    font-weight: 800;
+  }
+  
+  h4 {
+    color: #b1a613;
+  }
+  
+  p {
+    color: #b1a613;
+  }
+  
+  .photo {
+    margin-left: 40px;
+    border-radius: 10px;
+  }
+  
+  .contact-info,
+  a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  .contact-info,
+  li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  .photo-contact {
+    position: relative;
+    padding: 20px;
+  }
+  
+  .summary {
+    color: #101010;
+  }
+  
+  .content {
+    position: relative;
+    padding: 20px;
+  }
+  
+  .experience-style:hover {
+    color: #349d99;
+  }
+  
+  .experience-style:hover {
+    color: #349d99;
+  }
+  
+  .section-title:hover {
+    color: #747474;
+  }
+  
+  .section-summary:hover {
+    color: #349d99;
+  }
+  
+  .section-skills:hover {
+    color: #349d99;
+  }
+  
+  .section-experience:hover {
+    color: #349d99;
+  }
+  
+  .section-education:hover {
+    color: #349d99;
+  }
+  
+  .section-languages:hover {
+    color: #349d99;
+  }
+  
+  .section-languages,
+  p {
+    color: #101010;
+  }
