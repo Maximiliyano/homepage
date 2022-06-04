@@ -3,7 +3,8 @@ My very own personal website. Basically this is just a résumé.
 
 <hr />
 
-# Preview
-![image](https://maximiliyano.github.io/homepage/)
+#Magic
 
 <hr />
+
+🧙Hocus-pocus!
